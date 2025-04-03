@@ -1,0 +1,11 @@
+/* src/styles/global.css */
+body {
+  background-image: url("../assets/imagem_fundo.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
